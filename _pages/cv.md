@@ -1,23 +1,22 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Georgia Institute of Technology, 2030 (expected)
+* B.S. in Computer Science and Mathematics, University of Texas at Austin, 2025 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Production Engineer
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -47,7 +46,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
