@@ -24,3 +24,5 @@ One of the most valuable things I did over my education journey is teaching. I s
 Personal
 ======
 I enjoy traveling - both for the scenery, and for the travel experience itself. I maintain my [FlightRadar24 profile](https://my.flightradar24.com/B_1168), and try to explore new places when feasible. I especially enjoy transit-accessible natural hikes - whether that's Pelham Bay Park or San Bruno Mountain.
+
+My interest in the air also shapes my gaming experiences: this spans from building spacecrafts in Kerbal Space Program, to controlling on VATSIM, to combatting enemy planes in War Thunder (no, I am NOT the one who leaked the 12345th secret to Gaijin). I wouldn't call myself a professional in any of them, but I quite enjoy the process.
