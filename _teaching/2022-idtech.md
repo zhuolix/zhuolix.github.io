@@ -2,7 +2,7 @@
 title: "Freelance Instructor"
 collection: teaching
 type: "Coach"
-permalink: /teaching/2022-tfa-ignite
+permalink: /teaching/2022-idtech
 venue: "iD Tech"
 date: 2022-05-20
 location: "Remote"

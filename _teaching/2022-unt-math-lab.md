@@ -1,7 +1,7 @@
 ---
 title: "Math Lab Tutor"
 collection: teaching
-type: "Math Lab Tutor"
+type: "Department of Mathematics"
 permalink: /teaching/2022-unt-math-lab
 venue: "University of North Texas"
 date: 2022-01-15

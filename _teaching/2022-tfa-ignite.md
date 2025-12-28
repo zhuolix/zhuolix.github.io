@@ -1,7 +1,7 @@
 ---
-title: "Ignote Teaching Fellow"
+title: "Ignite Teaching Fellow"
 collection: teaching
-type: "Ignote Teaching Fellow"
+type: "Ignite Teaching Fellow"
 permalink: /teaching/2022-tfa-ignite
 venue: "Teach for America"
 date: 2022-09-15
