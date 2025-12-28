@@ -23,6 +23,4 @@ One of the things I have done a bit of over the years is teaching. I strongly be
 
 Personal
 ======
-I enjoy traveling - both for the scenery, and for the travel experience itself. I maintain my [FlightRadar24 profile](https://my.flightradar24.com/B_1168), and try to explore new places when feasible. I especially enjoy transit-accessible natural hikes - whether that's Pelham Bay Park
-
-I am also a foodie with a specialization 
+I enjoy traveling - both for the scenery, and for the travel experience itself. I maintain my [FlightRadar24 profile](https://my.flightradar24.com/B_1168), and try to explore new places when feasible. I especially enjoy transit-accessible natural hikes - whether that's Pelham Bay Park or San Bruno Mountain.
