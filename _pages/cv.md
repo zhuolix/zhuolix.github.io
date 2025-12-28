@@ -14,22 +14,19 @@ Education
 * M.S. in Computer Science, Georgia Institute of Technology, 2030 (expected)
 * B.S. in Computer Science and Mathematics, University of Texas at Austin, 2025 
 
-Work experience
+Technical Work Experience
 ======
-* Production Engineer
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Production Engineer, Enterprise Infrastructure & Security, Meta
+  * 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software Dev Engineer Intern, Echo Board Platform Software, Amazon
+  * 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Software Engineering Intern, Tenant Lifecycle, Benchling
+  * 
+
+* Software Engineering Intern, Payment Devices, The Home Depot
+  * 
   
 Skills
 ======
