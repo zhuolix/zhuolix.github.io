@@ -18,10 +18,10 @@ redirect_from:
 ### Technical Work Experience
 
 * Production Engineer, Enterprise Infrastructure & Security, Meta
-  * Tests, develops Terraform plugins for unified lifecycle management of services \& infrastructure
+  * Tests, develops Terraform plugins for unified lifecycle management of services & infrastructure
     * Implemented CRUD operations for storage volumes, virtual machines, networks, with polling resumption
     * Added 10+ Terraform resource tests, caught 100+ potential errors in code changes before merge
-  * Manages fleet of ~9k baremetal, ~22k virtual hosts for internal Meta services, monitors \& fixes service gaps
+  * Manages fleet of ~9k baremetal, ~22k virtual hosts for internal Meta services, monitors & fixes service gaps
     * Built end-to-end testing for corp virtual machine provisioning, detected 10+ provisioning service errors
 
 * Software Dev Engineer Intern, Echo Board Platform Software, Amazon
