@@ -1,33 +1,32 @@
 ---
-title: "Freelance Instructor"
+title: "Instructor"
 collection: teaching
-type: "Coach"
 permalink: /teaching/2022-idtech
 venue: "iD Tech"
 date: 2022-05-20
 location: "Remote"
 ---
 
-I served as an online coach for a variety of mathematics and computer science subjects via iD Tech's platform. In each session, I spend 1 hour with the student, for whom I provide customized instructions based on the student's age and current standing on the topic. Perhaps the most interesting part of the opportunity is the ability to teach Kerbal Space Program, a game I have long enjoyed, to students.
+I served as an online instructor for a variety of mathematics and computer science subjects via iD Tech's platform. In each session, I spend 1 hour with the student, for whom I provide customized instructions based on the student's age and current standing on the topic. Perhaps the most interesting part of the opportunity is the ability to teach Kerbal Space Program, a game I have long enjoyed, to students.
 
-Mathematics
-======
+### Mathematics
+
 - Topics covered include:
     - Algebra I, II;
     - Geometry;
     - Pre-calculus;
     - Calculus I, II;
 
-Computer Science
-======
+### Computer Science
+
 - Topics covered include:
     - Programming language basics and primitives;
     - Essential data structures;
     - Use of PyGame to produce basic games;
     - Use of MatPlotLib, NumPy to parse, understand large volumes of data;
 
-Kerbal Space Program
-======
+### Kerbal Space Program
+
 - Taught through combination of demonstration and hands-on practice;
 - Topics covered for aerospace vehicles:
     - Propellant (types of fuel, propulsion conditions, specific impulse);
