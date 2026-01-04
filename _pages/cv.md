@@ -51,7 +51,8 @@ redirect_from:
   * Data visualization via Matplotlib, etc.
 * Terraform
   * Plugin development
-* 
+* Linux
+* Golang
 
 ### Publications
 
